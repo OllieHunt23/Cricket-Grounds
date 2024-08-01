@@ -64,3 +64,4 @@ include('includes/Text-resizer.php');
 include 'includes/footer.php';
 ?>
 <!-- u reading this -->
+<!-- uj reading this -->
