@@ -52,18 +52,7 @@
     transition: all 0.5s ease;
 }
 
-/* custom image effects for home page*/
-.brighten_img{
-    -webkit-filter: brightness(60%);
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease ;
-    -o-transition: all 1s ease ;
-    -ms-transition: all 1s ease;
-    transition: all 1s ease;
-}
-.brighten_img:hover{
-    -webkit-filter: brightness(100%);
-}
+
 /* custom navigation links*/
 .navbar .navbar-nav .nav-link:hover{
 background-color: rgb(58, 30, 30);
@@ -96,8 +85,8 @@ background-color: rgb(58, 30, 30);
     height: 100%s;
 }
 .text-colour{
-    color: #990011FF;
+    color: #1995AD;
 }
 .bg-colour{
-    background-color: #FCF6F5FF;
+    background-color: #F1F1F2;
 }
