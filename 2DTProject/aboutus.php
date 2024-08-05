@@ -63,4 +63,3 @@ include('includes/Text-resizer.php');
 <?php
 include 'includes/footer.php';
 ?>
-<!-- gnsf -->
