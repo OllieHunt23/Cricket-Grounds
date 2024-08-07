@@ -39,10 +39,10 @@ include('includes/carousel.php');
 
   <!-- Start of content 2 -->
   <div class="card text-center">
-    <div class="card-header">
+    <div class="card-header text-colour">
       Featured
     </div>
-    <div class="card-body background-colour">
+    <div class="card-body bg-colour">
       <h5 class="card-title text-colour">Special title treatment</h5>
       <p class="card-text text-colour">With supporting text below as a natural lead-in to additional content.</p>
       <a href="contactus.php" class="btn btn-primary">Go somewhere</a>
