@@ -1,6 +1,6 @@
 <!-- Start of footer-->
 <!-- Footer -->
-<footer class="text-center text-colour" style="background-color: #FCF6F5">
+<footer class="text-center text-colour" style="background-color: #F1F1F2">
 
   <!-- Section: Links  -->
   <section class="">
