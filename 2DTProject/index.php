@@ -38,13 +38,13 @@ include('includes/carousel.php');
   </div>
 
   <!-- Start of content 2 -->
-  <div class="card text-center">
-    <div class="card-header">
+  <div class="card text-center bg-colour text-colour">
+    <div class="card-header text-colour">
       Featured
     </div>
-    <div class="card-body">
+    <div class="card-body bg-colour text-colour">
       <h5 class="card-title">Special title treatment</h5>
-      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text text-colour">With supporting text below as a natural lead-in to additional content.</p>
       <a href="contactus.php" class="btn btn-primary">Go somewhere</a>
     </div>
   </div>
