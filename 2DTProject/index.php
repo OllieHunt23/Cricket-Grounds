@@ -39,7 +39,7 @@ include('includes/carousel.php');
 
   <!-- Start of content 2 -->
   <div class="card text-center bg-colour text-colour">
-    <div class="card-header text-colour">
+    <div class="card-header text-colour bg-colour">
       Featured
     </div>
     <div class="card-body bg-colour text-colour">
