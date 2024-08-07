@@ -30,9 +30,6 @@ include('includes/Text-resizer.php');
                 Email: <a class="text-colour" href="mailto:Polishman@gmail.co.nz">Polishman@gmail.co.nz</a><br>
             </p><br>
         </div>
-        <div class="col-sm-1">
-
-        </div>
     </div>
 
 
