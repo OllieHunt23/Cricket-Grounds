@@ -45,7 +45,7 @@ include('includes/carousel.php');
     <div class="card-body bg-colour text-colour">
       <h5 class="card-title">Special title treatment</h5>
       <p class="card-text text-colour">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="contactus.php" class="btn btn-primary">Go somewhere</a>
+      <a href="contactus.php" class="btn btn-primary">Find Schools</a>
     </div>
   </div>
 
