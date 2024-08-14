@@ -54,8 +54,8 @@
 
 }
 .button:hover{
-    background-color: #FCF6F5FF;
-    color: #990011FF;
+    background-color: #F1F1F2;
+    color: rgb(0, 120, 153);
     transition: all 0.5s ease;
 }
 
