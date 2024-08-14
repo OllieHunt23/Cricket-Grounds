@@ -33,17 +33,6 @@
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search College" aria-label="Search">
         <button class="btn btn-outline-success button-hover" type="submit">Search</button>
-        <ul id="myMenu">
-          <li><a href="#">HTML</a></li>
-          <li><a href="#">CSS</a></li>
-          <li><a href="#">JavaScript</a></li>
-          <li><a href="#">PHP</a></li>
-          <li><a href="#">Python</a></li>
-          <li><a href="#">jQuery</a></li>
-          <li><a href="#">SQL</a></li>
-          <li><a href="#">Bootstrap</a></li>
-          <li><a href="#">Node.js</a></li>
-        </ul>
       </form>
     </div>
   </div>
