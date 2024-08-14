@@ -1,5 +1,5 @@
 <!-- Start of Navbar -->
-<nav class="navbar navbar-expand-lg bg-colour">
+<nav class="navbar navbar-expand-lg bg-colour navbar">
   <div class="container-fluid">
     <a class="navbar-brand text-colour" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
