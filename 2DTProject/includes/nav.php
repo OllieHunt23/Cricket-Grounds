@@ -27,7 +27,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-colour" aria-disabled="true">Disabled</a>
+          <a class="nav-link text-colour" href="aboutus.php">About us</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
