@@ -15,7 +15,7 @@
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-colour" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+            School Dropdown
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item text-colour" href="#">Action</a></li>
