@@ -38,7 +38,7 @@
         <script>
           const f = document.getElementById('form');
           const q = document.getElementById('query');
-          const google = 'https://www.google.com/search?q=site%3A+';
+          const google = 'https://www.google.com/search?q=site%3A+.php';
           const site = 'http://localhost/2dtproject/';
 
           function submitted(event) {
