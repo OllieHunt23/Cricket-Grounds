@@ -10,16 +10,13 @@
         <li class="nav-item">
           <a class="nav-link active text-colour" aria-current="page" href="index.php">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link text-colour" href="#">Link</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-colour" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            School Dropdown
+            Colleges
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item text-colour" href="#">Action</a></li>
-            <li><a class="dropdown-item text-colour" href="#">Another action</a></li>
+            <li><a class="dropdown-item text-colour" href="#">Rongotai</a></li>
+            <li><a class="dropdown-item text-colour" href="#">Wellington College</a></li>
             <li>
               <hr class="dropdown-divider">
             </li>
@@ -28,6 +25,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link text-colour" href="aboutus.php">About us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-colour" href="contactus.php">Contact us</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
