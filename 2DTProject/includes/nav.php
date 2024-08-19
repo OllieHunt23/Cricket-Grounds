@@ -39,7 +39,7 @@
           const f = document.getElementById('form');
           const q = document.getElementById('query');
           const google = 'https://www.google.com/search?q=site%3A+';
-          const site = 'http://localhost/2dtproject/index.php';
+          const site = 'http://localhost/2dtproject/';
 
           function submitted(event) {
             event.preventDefault();
