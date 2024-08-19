@@ -1,6 +1,6 @@
 <!-- Calling header page-->
 <?php
-$page_title = "Wisnewski's Cafe";
+$page_title = "Finding The Crease";
 include('includes/header.php');
 include('includes/nav.php');
 include('includes/carousel.php');

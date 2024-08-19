@@ -110,8 +110,8 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0);">
-    &copy; 2023 Copyright:
-    <a class="text-white" href="index.php">WisnewskiCafe.co.nz</a>
+    &copy; 2024 Copyright:
+    <a class="text-white" href="index.php">FindingtheCrease.co.nz</a>
   </div>
   <!-- Copyright -->
 </footer>
