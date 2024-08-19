@@ -11,11 +11,10 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Wisnewski's Cafe
+            <i class="fas fa-gem me-3"></i>Finding The Crease
           </h6>
           <p class="para1 text-colour">
-            Great Food
-            Best Prices
+            Best place for finding cricket grounds.
           </p>
         </div>
         <!-- Grid column -->
@@ -24,10 +23,10 @@
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
-            Menus
+            Colleges
           </h6>
           <p>
-            <a href="image/Menu.pdf" class="text-reset">Breakfast Menu</a>
+            <a href="image/Menu.pdf" class="text-reset">College</a>
           </p>
           <p>
             <a href="image/Menu.pdf" class="text-reset">Lunch Menu</a>
@@ -48,7 +47,7 @@
             Useful links
           </h6>
           <p>
-            <a href="menu.php" class="text-reset">Menu</a>
+            <a href="menu.php" class="text-reset">Home page</a>
           </p>
           <p>
             <a href="aboutus.php" class="text-reset">About us</a>
@@ -57,7 +56,7 @@
             <a href="contactus.php" class="text-reset">Contact Us</a>
           </p>
           <p>
-            <a href="gallery.php" class="text-reset">Gallery</a>
+            <a href="gallery.php" class="text-reset"></a>
           </p>
         </div>
         <!-- Grid column -->
@@ -69,7 +68,7 @@
           <p><i class="fas fa-home me-3"></i>170 Coutts Street, Wellington</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
-            WisnewskiCafe@gmail.co.nz
+            Polishman@gmail.co.nz
           </p>
           <p><i class="fas fa-phone me-3"></i> + 64 489 921 018</p>
           <p><i class="fas fa-print me-3"></i> + 64 489 921 019</p>
