@@ -31,12 +31,6 @@
         </li>
       </ul>
 
-      <head>
-        <meta charset='UTF-8'>
-        <title>Search Bar Demo</title>
-
-      </head>
-
       <body>
 
         <head>
@@ -62,6 +56,7 @@
 
               f.addEventListener('submit', submitted);
             </script>
+        </head>
       </body>
     </div>
   </div>
