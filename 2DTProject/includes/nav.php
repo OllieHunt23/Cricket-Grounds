@@ -93,8 +93,8 @@
         <script>
           const f = document.getElementById('form');
           const q = document.getElementById('query');
-          const google = 'http://localhost/2dtproject/search?q=site%3A+';
-          const site = '';
+          const google = '';
+          const site = 'http://localhost/2dtproject/search?q=site%3A+';
 
           function submitted(event) {
             event.preventDefault();
