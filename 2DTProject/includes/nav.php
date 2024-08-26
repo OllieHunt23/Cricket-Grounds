@@ -54,7 +54,7 @@
 
           function submitted(event) {
             event.preventDefault();
-            const url = google + site + '+' + q.value;
+            const url = google + site + '+' + q.value + ".php";
             const win = window.open(url, '_blank');
             win.focus();
           }
