@@ -48,11 +48,12 @@
           <script>
             const f = document.getElementById('form');
             const q = document.getElementById('query');
+            const google = '';
             const site = 'http://localhost/2dtproject/';
 
             function submitted(event) {
               event.preventDefault();
-              const url = site + q.value + ".php";
+              const url = google + site + q.value + ".php";
               const win = window.open(url, '_blank');
               win.focus();
             }
