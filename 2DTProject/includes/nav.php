@@ -38,7 +38,7 @@
       </head>
 
       <body>
-        <form class="d-flex" role="search">
+        <form class="form" role="search">
           <input class="form-control me-2" type="search" id="query" name="q"
             placeholder="Search College"
             aria-label="Search">
