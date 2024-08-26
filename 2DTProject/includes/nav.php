@@ -94,7 +94,7 @@
           const f = document.getElementById('form');
           const q = document.getElementById('query');
           const google = 'http://localhost/2dtproject/search?q=site%3A+';
-          const site = 'index.php';
+          const site = '';
 
           function submitted(event) {
             event.preventDefault();
