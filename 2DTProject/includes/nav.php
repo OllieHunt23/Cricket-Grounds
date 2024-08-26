@@ -50,7 +50,7 @@
           const f = document.getElementById('form');
           const q = document.getElementById('query');
           const google = '';
-          const site = 'http://localhost/2dtproject/search?q=site%3A+';
+          const site = 'http://localhost/2dtproject/';
 
           function submitted(event) {
             event.preventDefault();
