@@ -1,6 +1,6 @@
 <!-- Calling header page-->
 <?php
-$page_title = "Wisnewski's Cafe";
+$page_title = "Finding The Crease";
 include('includes/header.php');
 include('includes/nav.php');
 include('includes/carousel.php');
@@ -39,7 +39,7 @@ include('includes/carousel.php');
 
   <!-- Start of content 2 -->
   <div class="card text-center bg-colour text-colour">
-    <div class="card-header text-colour">
+    <div class="card-header text-colour bg-colour">
       Featured
     </div>
     <div class="card-body bg-colour text-colour">
