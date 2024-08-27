@@ -34,7 +34,7 @@
       <body>
 
         <head>
-          <meta charset='UTF-8'>
+          <meta charset='UTF-8' class="button button-hover">
           <title>Search Bar Demo</title>
           <form role="search" id="form">
             <input type="search" id="query" name="q" placeholder="Search..." aria-label="Search through site content">
