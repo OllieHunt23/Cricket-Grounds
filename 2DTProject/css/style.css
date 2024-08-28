@@ -45,7 +45,7 @@
 
 /*Styles for buttons*/
 .button{
-    background-color: #990011FF;
+    background-color: rgb(255, 255, 255);
     color: #FCF6F5FF;
     border: none;
     padding: 0.625rem;
