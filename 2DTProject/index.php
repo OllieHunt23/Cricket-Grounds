@@ -20,38 +20,29 @@ include('includes/carousel.php');
     <div class="row">
 
       <div class="col-sm-1">
+        <div class="col-sm-1">
 
+        </div>
       </div>
-      <div class="col-sm-10">
-        <h1 class="heading_3 text-center text-colour">Finding the Crease</h1>
-        <p class="text-center">
-          <img class="img" src="image/logo.png" alt="logo">
-        </p>
 
+
+    </div>
+
+    <!-- Start of content 2 -->
+    <div class="card text-center bg-colour text-colour">
+      <div class="card-header text-colour bg-colour">
+        Featured
       </div>
-      <div class="col-sm-1">
-
+      <div class="card-body bg-colour text-colour">
+        <h5 class="card-title">Special title treatment</h5>
+        <p class="card-text text-colour">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="contactus.php" class="btn btn-primary">Find Schools</a>
       </div>
     </div>
 
 
-  </div>
 
-  <!-- Start of content 2 -->
-  <div class="card text-center bg-colour text-colour">
-    <div class="card-header text-colour bg-colour">
-      Featured
-    </div>
-    <div class="card-body bg-colour text-colour">
-      <h5 class="card-title">Special title treatment</h5>
-      <p class="card-text text-colour">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="contactus.php" class="btn btn-primary">Find Schools</a>
-    </div>
-  </div>
-
-
-
-  <!-- Calling footer page-->
-  <?php
-  include 'includes/footer.php';
-  ?>
+    <!-- Calling footer page-->
+    <?php
+    include 'includes/footer.php';
+    ?>
