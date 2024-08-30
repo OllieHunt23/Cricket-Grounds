@@ -25,7 +25,7 @@ include('includes/carousel.php');
       <div class="col-sm-10">
         <h1 class="heading_3 text-center text-colour">Finding the Crease</h1>
         <p class="text-center">
-          <img class="img" src="image/logo2.jpg" alt="logo">
+          <img class="img" src="image/logo.png" alt="logo">
         </p>
 
       </div>
