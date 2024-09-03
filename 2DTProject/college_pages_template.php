@@ -22,21 +22,14 @@ include('includes/nav.php');
 
             </div>
             <div class="col-sm-10">
-                <h1 class="heading_3 text-center text-colour">Wisnewski's Cafe</h1>
+                <h1 class="heading_3 text-center text-colour">Placeholder</h1>
                 <p class="text-center">
-                    <img class="img" src="image/logo2.jpg" alt="logo">
+                    <img class="img" src="image/download (1).jpg" alt="logo">
                     <img class="img" src="image/logo2.jpg" alt="logo">
                 </p>
             </div>
 
             <!-- Start of content 2 -->
-            <div class="card text-center bg-colour text-colour">
-                <div class="card-header bg-colour text-colour">
-                </div>
-                <div class="col-sm-1">
-
-                </div>
-            </div>
 
 
         </div>
