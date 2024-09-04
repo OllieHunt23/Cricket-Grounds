@@ -24,7 +24,7 @@ include('includes/nav.php');
             <div class="col-sm-10">
                 <h1 class="heading_3 text-center text-colour">Placeholder</h1>
                 <p class="text-center">
-                    <img class="img" src="image/download (1).jpg" alt="logo">
+                    <img class="img" src="image/download (1).jpg" alt="logo" style="position: fixed; top: 20px; right: 20px;">>
                     <img class="img" src="image/logo2.jpg" alt="logo">
                 </p>
             </div>
