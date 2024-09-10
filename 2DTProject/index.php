@@ -33,7 +33,7 @@ include('includes/carousel.php');
   <div class="card text-center bg-colour text-colour">
     <div class="card-body bg-colour text-colour">
       <h5 class="card-title">Find Schools</h5>
-      <a href="Find_schools.php" class="button button:hover">Find Schools</a>
+      <a href="Find_schools.php" class=" button button:hover">Find Schools</a>
     </div>
   </div>
 </div>
