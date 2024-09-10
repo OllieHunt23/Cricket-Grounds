@@ -13,7 +13,7 @@
           <h6 class="text-uppercase fw-bold mb-4">
             <i class="fas fa-gem me-3"></i>Finding The Crease
           </h6>
-          <p class="para1 text-colour">
+          <p class="text-colour">
             Best place for finding cricket grounds.
           </p>
         </div>
