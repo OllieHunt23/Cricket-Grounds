@@ -31,13 +31,13 @@ include('includes/carousel.php');
 
   <!-- Start of content 2 -->
   <div class="card text-center bg-colour text-colour">
-    <div class="card-header bg-colour text-colour">
+    <div class="bg-colour text-colour">
       Featured
     </div>
     <div class="card-body bg-colour text-colour">
       <h5 class="card-title">Special title treatment</h5>
       <p class="card-text text-colour">With supporting text below as a natural lead-in to additional content.</p>
-      <a href="college_pages_template.php" class="btn btn-primary">Find Schools</a>
+      <a href="Find_schools.php" class="button button:hover">Find Schools</a>
     </div>
   </div>
 </div>
