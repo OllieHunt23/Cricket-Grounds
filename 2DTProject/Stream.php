@@ -34,6 +34,7 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/stream_location.png" alt="logo">
+            <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
             <p class=" text-colour">
             <ul>
                 <li class="text-colour">1st XI players will be charged $500.00 </li>

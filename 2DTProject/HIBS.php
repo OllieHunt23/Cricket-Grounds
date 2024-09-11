@@ -35,7 +35,7 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/HIBS_Location.png" alt="logo">
-            <h5 class="heading_3 text-center text-colour pt-5">Facts:</h5>
+            <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
             <p class=" text-colour">
             <ul>
                 <li class="text-colour">Old Boy, Rachin Ravindra, Class of 2017 has been selected into the Cricket Black Caps</li>

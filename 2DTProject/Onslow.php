@@ -35,7 +35,7 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/Onslow_location.png" alt="logo">
-            <h5 class="heading_3 text-center text-colour pt-5">Facts:</h5>
+            <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
             <p class=" text-colour">
             <ul>
                 <li class="text-colour">
