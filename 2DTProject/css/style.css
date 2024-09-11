@@ -86,6 +86,7 @@ background-color:  #1995AD;
 @media screen and(min-width: 991px){
     .navbar-brand{
         padding-left:  0.7em;
+        color: #1995AD;
     }
     .navbar .nav-link .navbar-nav{
         padding-top: 1em;
