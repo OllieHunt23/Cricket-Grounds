@@ -97,4 +97,6 @@ background-color:  #1995AD;
     width: 100%;
     height: 100%s;
 }
-
+.container-fluid {
+    color: #1995AD;
+}
