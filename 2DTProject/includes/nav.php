@@ -18,18 +18,18 @@
             <li><a class="dropdown-item text-colour" href="rongotai.php">Rongotai</a></li>
             <li><a class="dropdown-item text-colour" href="Wellington_college.php">Wellington College</a></li>
             <li><a class="dropdown-item text-colour" href="Pats.php">St. Pats Town</a></li>
-            <li><a class="dropdown-item text-colour" href="#">Scot's College</a></li>
-            <li><a class="dropdown-item text-colour" href="#">St. Pats Stream</a></li>
-            <li><a class="dropdown-item text-colour" href="#">HVHS</a></li>
-            <li><a class="dropdown-item text-colour" href="#">HIBS</a></li>
-            <li><a class="dropdown-item text-colour" href="#">Onslow Colle</a></li>
+            <li><a class="dropdown-item text-colour" href="Scots_college.php">Scot's College</a></li>
+            <li><a class="dropdown-item text-colour" href="Stream.php">St. Pats Stream</a></li>
+            <li><a class="dropdown-item text-colour" href="HVHS.php">HVHS</a></li>
+            <li><a class="dropdown-item text-colour" href="HIBS.php">HIBS</a></li>
+            <li><a class="dropdown-item text-colour" href="Onslow.php">Onslow College</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-colour" href="aboutus.php">About us</a>
+          <a class="text-colour" href="aboutus.php">About us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-colour" href="contactus.php">Contact us</a>
+          <a class="text-colour" href="contactus.php">Contact us</a>
         </li>
       </ul>
 
