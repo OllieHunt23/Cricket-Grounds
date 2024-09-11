@@ -35,7 +35,12 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/Card 1.jpg" alt="logo">
-            <p class="pt-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
+            <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
+            <p class="pt-5">
+            <ul>
+                <li>Australian tour every 2 years</li>
+                <li>Traditional Matches</li>
+            </ul>
             </p>
         </div>
     </div>
