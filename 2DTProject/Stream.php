@@ -34,8 +34,13 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/stream_location.png" alt="logo">
-            <p class="pt-5">Lorem ipsum, dolor sit amet consectetur ad
-                ipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
+            <p class=" text-colour">
+            <ul>
+                <li class="text-colour">1st XI players will be charged $500.00 </li>
+                <li class="text-colour">All other teams will be charged $200.00 </li>
+
+
+            </ul>
             </p>
         </div>
     </div>

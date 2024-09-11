@@ -34,8 +34,11 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/scots_location.png" alt="logo">
-            <p class="pt-5">Lorem ipsum, dolor sit amet consectetur ad
-                ipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
+            <p class=" text-colour">
+            <ul>
+                <li class="text-colour">2021 - 1st XI Boys – Hunt Cup Winners </li>
+
+            </ul>
             </p>
         </div>
     </div>

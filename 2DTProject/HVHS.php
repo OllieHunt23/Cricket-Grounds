@@ -35,9 +35,6 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/HVHS_Location.png" alt="logo">
-            <h5 class="heading_3 text-center text-colour pt-5">Facts:</h5>
-            <p class="pt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
-            </p>
         </div>
     </div>
 </div>

@@ -35,7 +35,15 @@ include('includes/nav.php');
         </div>
         <div class="col col-sm-4">
             <img class="img" src="image/pats_location.png" alt="logo">
-            <p class="pt-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
+            <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
+            <p class=" text-colour">
+            <ul>
+                <li class="text-colour">1st XI Premier 1 champions in 2017</li>
+                <li class="text-colour">Six teams, 69 players</li>
+                <li class="text-colour">Current Firebirds include Luke Georgeson and Lauchie Johns.</li>
+                <li class="text-colour">Professional Coach for the 1st XI</li>
+
+            </ul>
             </p>
         </div>
     </div>

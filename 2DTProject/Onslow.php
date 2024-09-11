@@ -36,7 +36,19 @@ include('includes/nav.php');
         <div class="col col-sm-4">
             <img class="img" src="image/Onslow_location.png" alt="logo">
             <h5 class="heading_3 text-center text-colour pt-5">Facts:</h5>
-            <p class="pt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
+            <p class=" text-colour">
+            <ul>
+                <li class="text-colour">
+                    Indicative Costs:
+                    1st XI boys ($750)
+                    2nd XI boys ($450)
+                </li>
+                <li class="text-colour">Junior and senior boys games are played on saturday.
+                </li>
+                <li class="text-colour">Junior and senior girls games are played on thursday.
+                </li>
+
+            </ul>
             </p>
         </div>
     </div>
