@@ -26,10 +26,10 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="text-colour" href="aboutus.php">About us</a>
+          <a class="nav-link text-colour" href="aboutus.php">About us</a>
         </li>
         <li class="nav-item">
-          <a class="text-colour" href="contactus.php">Contact us</a>
+          <a class="nav-link text-colour" href="contactus.php">Contact us</a>
         </li>
       </ul>
 

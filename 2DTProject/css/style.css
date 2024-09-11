@@ -72,6 +72,7 @@ background-color:  #1995AD;
 }
 .nav-link{
     text-transform: uppercase;
+    color:#1995AD
 }
 @media screen and(min-width: 992px){
         .navbar{
