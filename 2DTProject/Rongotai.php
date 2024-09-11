@@ -38,8 +38,8 @@ include('includes/nav.php');
             <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
             <p class=" text-colour">
             <ul>
-                <li>Australian tour every 2 years</li>
-                <li>Traditional Matches</li>
+                <li class="text-colour">Australian tour every 2 years</li>
+                <li class="text-colour">Traditional Matches</li>
             </ul>
             </p>
         </div>
