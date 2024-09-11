@@ -17,7 +17,7 @@ include('includes/nav.php');
     <div class="row justify-content-sm-center">
         <div class="col col-sm-2">
             <p class="text-center">
-                <img class="img" src="image/WellingtonCollege.jpg" alt="logo">
+                <img class="img" src="image/WellingtonCollege.png" alt="logo">
             </p>
         </div>
         <div class="col-sm">
