@@ -32,7 +32,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/WellingtonCollege.jpg" style="width: 287px; height: 200px;" class="card-img-top" alt="WC">
+                    <img src="image/WellingtonCollege.png" style="width: 287px; height: 200px;" class="card-img-top" alt="WC">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour pb-1">Wellington College</h5>
                         <a href="Wellington_College.php" class="button button:hover">Wellington College info</a>
