@@ -36,7 +36,7 @@ include('includes/nav.php');
         <div class="col col-sm-4">
             <img class="img" src="image/Card 1.jpg" alt="logo">
             <h5 class="heading_3 text-center text-colour pt-5">Info:</h5>
-            <p class="pt-5">
+            <p class=" text-colour">
             <ul>
                 <li>Australian tour every 2 years</li>
                 <li>Traditional Matches</li>
