@@ -21,7 +21,7 @@ include('includes/nav.php');
             </p>
         </div>
         <div class="col-sm">
-            <h1 class="heading_3 text-center text-colour">HIBS</h1>
+            <h1 class="heading_3 text-center text-colour">HVHS</h1>
         </div>
         <div class="col col-sm-2">
         </div>
