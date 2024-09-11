@@ -17,7 +17,7 @@ include('includes/nav.php');
     <div class="row justify-content-sm-center">
         <div class="col col-sm-2">
             <p class="text-center">
-                <img class="img" src="image/hibs_logo.png" alt="logo">
+                <img class="img" src="image/Onslow_logo.png" alt="logo">
             </p>
         </div>
         <div class="col-sm">
@@ -28,13 +28,13 @@ include('includes/nav.php');
     </div>
     <div class="row">
         <div class="col col-sm-auto">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4280.126497441844!2d175.03550454798614!3d-41.13906726858376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x6d38afdc4c1bcdbf%3A0xf00ef62249daea0!2sBasin%20Reserve%2C%20Mount%20Cook%2C%20Wellington%206021!3m2!1d-41.300366499999996!2d174.7803198!4m5!1s0x6d40ac8f3a5739e1%3A0x35685428fe334fd9!2sHutt%20International%20Boys&#39;%20School%20Granville%20Street%2C%20Trentham%2C%20Upper%20Hutt!3m2!1d-41.1406831!2d175.0367607!5e1!3m2!1sen!2snz!4v1726037979697!5m2!1sen!2snz" width="575" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d76476.18074195035!2d174.71041830616952!3d-41.26390077440865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x6d38afdc4c1bcdbf%3A0xf00ef62249daea0!2sBasin%20Reserve%2C%20Mount%20Cook%2C%20Wellington!3m2!1d-41.300366499999996!2d174.7803198!4m5!1s0x6d38adde16195c0d%3A0x5aef14152fe826d7!2sOnslow%20College%20Burma%20Road%2C%20Johnsonville%2C%20Wellington%206035!3m2!1d-41.2303268!2d174.7984028!5e1!3m2!1sen!2snz!4v1726039147072!5m2!1sen!2snz" width="575" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="col-sm-1">
 
         </div>
         <div class="col col-sm-4">
-            <img class="img" src="image/HIBS_Location.png" alt="logo">
+            <img class="img" src="image/Onslow_location.png" alt="logo">
             <h5 class="heading_3 text-center text-colour pt-5">Facts:</h5>
             <p class="pt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid odit velit eligendi obcaecati esse harum, eum atque vel quae quidem a cupiditate officiis quaerat assumenda suscipit illo eaque
             </p>
