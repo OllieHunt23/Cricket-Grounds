@@ -90,7 +90,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/Onslow_location.png" style="width: 286px; height: 200px;" class="card-img-top" alt="Onslow">
+                    <img src="image/Onslow_location.png" style="width: 287px; height: 200px;" class="card-img-top" alt="Onslow">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour pb-1">Onslow College</h5>
                         <a href="Onslow.php" class="button button:hover">Onslow College info</a>
