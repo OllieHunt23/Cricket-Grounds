@@ -11,7 +11,7 @@
           <a class="nav-link active text-colour" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle text-colour" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link active dropdown-toggle text-colour" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Colleges
           </a>
           <ul class="dropdown-menu">
@@ -26,10 +26,10 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-colour" href="aboutus.php">About us</a>
+          <a class="nav-link active text-colour" href="aboutus.php">About us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-colour" href="contactus.php">Contact us</a>
+          <a class="nav-link active text-colour" href="contactus.php">Contact us</a>
         </li>
       </ul>
 
