@@ -15,12 +15,14 @@
             Colleges
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item text-colour" href="#">Rongotai</a></li>
-            <li><a class="dropdown-item text-colour" href="#">Wellington College</a></li>
-            <li>
-              <hr class="dropdown-divider">
-            </li>
-            <li><a class="dropdown-item text-colour" href="#">Something else here</a></li>
+            <li><a class="dropdown-item text-colour" href="rongotai.php">Rongotai</a></li>
+            <li><a class="dropdown-item text-colour" href="Wellington_college.php">Wellington College</a></li>
+            <li><a class="dropdown-item text-colour" href="Pats.php">St. Pats Town</a></li>
+            <li><a class="dropdown-item text-colour" href="#">Scot's College</a></li>
+            <li><a class="dropdown-item text-colour" href="#">St. Pats Stream</a></li>
+            <li><a class="dropdown-item text-colour" href="#">HVHS</a></li>
+            <li><a class="dropdown-item text-colour" href="#">HIBS</a></li>
+            <li><a class="dropdown-item text-colour" href="#">Onslow Colle</a></li>
           </ul>
         </li>
         <li class="nav-item">
