@@ -23,7 +23,7 @@ include('includes/nav.php');
         <div class="row pb-5">
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/Rongotai.png" class="card-img-top" alt="Rongotai">
+                    <img src="image/Card 1.jpg" class="card-img-top" alt="Rongotai">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">Rongotai</h5>
                         <a href="Rongotai.php" class="button">Rongotai College info</a>
@@ -32,7 +32,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/WellingtonCollege.jpg" class="card-img-top" alt="WC">
+                    <img src="" class="card-img-top" alt="WC">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">Wellington College</h5>
                         <a href="Wellington_College.php" class="button button:hover">Wellington College info</a>
@@ -41,7 +41,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/pats_logo.png" class="card-img-top" alt="Pats">
+                    <img src="image/pats_location.png" class="card-img-top" alt="Pats">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">St. Pats Town</h5>
                         <a href="Pats.php" class=" button button:hover">St. Pats info</a>
@@ -61,7 +61,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/stream_logo.png" class="card-img-top" alt="stream">
+                    <img src="image/stream_location.png" class="card-img-top" alt="stream">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">St. Pats Stream</h5>
                         <a href="Stream.php" class="button button:hover">St. Pats Stream info</a>
@@ -70,7 +70,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/HVHS_logo.png" class="card-img-top" alt="HVHS">
+                    <img src="image/HVHS_Location.png" class="card-img-top" alt="HVHS">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">HVHS</h5>
                         <a href="HVHS.php" class=" button button:hover">HVHS info</a>
@@ -81,7 +81,7 @@ include('includes/nav.php');
         <div class="row pb-5">
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/hibs_logo.png" class="card-img-top" alt="HIBS">
+                    <img src="image/HIBS_Location.png" class="card-img-top" alt="HIBS">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">HIBS</h5>
                         <a href="HIBS.php" class="button">HIBS info</a>
@@ -90,7 +90,7 @@ include('includes/nav.php');
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="image/Onslow_logo.png" class="card-img-top" alt="Onslow">
+                    <img src="image/Onslow_location.png" class="card-img-top" alt="Onslow">
                     <div class="card-body bg-colour">
                         <h5 class="text-colour">Onslow College</h5>
                         <a href="Onslow.php" class="button button:hover">Onslow College info</a>
