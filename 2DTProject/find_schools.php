@@ -23,31 +23,28 @@ include('includes/nav.php');
         <div class="row pb-5">
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/Rongotai.png" class="card-img-top" alt="Rongotai">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class="button">Go somewhere</a>
+                        <h5 class="text-colour">Rongotai</h5>
+                        <a href="Rongotai.php" class="button">Rongotai College info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/WellingtonCollege.jpg" class="card-img-top" alt="WC">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class="button button:hover">Go somewhere</a>
+                        <h5 class="text-colour">Wellington College</h5>
+                        <a href="Wellington_College.php" class="button button:hover">Wellington College info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/pats_logo.png" class="card-img-top" alt="Pats">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class=" button button:hover">Go somewhere</a>
+                        <h5 class="text-colour">St. Pats Town</h5>
+                        <a href="Pats.php" class=" button button:hover">St. Pats info</a>
                     </div>
                 </div>
             </div>
@@ -55,31 +52,28 @@ include('includes/nav.php');
         <div class="row pb-5">
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/scots_logo.png" class="card-img-top" alt="Scots">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class="button">Go somewhere</a>
+                        <h5 class="text-colour">Scots College</h5>
+                        <a href="Scots_College.php" class="button">Scots College info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/stream_logo.png" class="card-img-top" alt="stream">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class="button button:hover">Go somewhere</a>
+                        <h5 class="text-colour">St. Pats Stream</h5>
+                        <a href="Stream.php" class="button button:hover">St. Pats Stream info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/HVHS_logo.png" class="card-img-top" alt="HVHS">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class=" button button:hover">Go somewhere</a>
+                        <h5 class="text-colour">HVHS</h5>
+                        <a href="HVHS.php" class=" button button:hover">HVHS info</a>
                     </div>
                 </div>
             </div>
@@ -87,36 +81,23 @@ include('includes/nav.php');
         <div class="row pb-5">
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/hibs_logo.png" class="card-img-top" alt="HIBS">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class="button">Go somewhere</a>
+                        <h5 class="text-colour">HIBS</h5>
+                        <a href="HIBS.php" class="button">HIBS info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="image/Onslow_logo.png" class="card-img-top" alt="Onslow">
                     <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class="button button:hover">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body bg-colour">
-                        <h5 class="text-colour">Card title</h5>
-                        <p class="card-text text-colour"></p>
-                        <a href="#" class=" button button:hover">Go somewhere</a>
+                        <h5 class="text-colour">Onslow College</h5>
+                        <a href="Onslow.php" class="button button:hover">Onslow College info</a>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 
