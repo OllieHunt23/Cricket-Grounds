@@ -26,16 +26,16 @@
             Colleges
           </h6>
           <p>
-            <a href="image/Menu.pdf" class="text-reset">College</a>
+            <a href="find_schools.php" class="text-reset">Colleges</a>
           </p>
           <p>
-            <a href="image/Menu.pdf" class="text-reset">Lunch Menu</a>
+            <a href="Rongotai.php" class="text-reset">Rongotai</a>
           </p>
           <p>
-            <a href="image/Menu.pdf" class="text-reset">Dinner Menu</a>
+            <a href="Wellington_College.php" class="text-reset">Wellington College</a>
           </p>
           <p>
-            <a href="image/Menu.pdf" class="text-reset">Drinks Menu</a>
+            <a href="Pats.php" class="text-reset">St. Pats Town</a>
           </p>
         </div>
         <!-- Grid column -->
