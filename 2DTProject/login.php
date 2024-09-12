@@ -3,7 +3,6 @@
 $page_title = "Login";
 
 // calling header and nav pages
-include 'includes/nav.php';
 include 'includes/header.php';
 
 // Calling Connection page
