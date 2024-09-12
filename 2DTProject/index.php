@@ -19,7 +19,7 @@ include('includes/carousel.php');
 
 <div class="container pt-5 controlstyle">
   <div class="row">
-
+    <h1 class="heading_3 text-center text-colour pb-5">Finding the Crease</h1>
     <div class="col-sm-1">
       <div class="col-sm-1">
 
