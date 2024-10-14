@@ -1,0 +1,13 @@
+/*text resizer*/
+.controlstyle a{ /*links inside DIV sizecontroldiv*/
+    outline:none;
+    }
+    
+    .controlstyle a img{ /*image links inside DIV sizecontroldiv*/
+    border-width:0;
+    }
+    
+    .controlstyle a.selectedcontrol img{ /*selected control's image*/
+    border-bottom:4px solid darkred;
+    }
+
